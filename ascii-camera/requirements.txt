@@ -1,0 +1,16 @@
+ascii-camera
+├── src
+│   ├── __init__.py
+│   ├── main.py
+│   ├── camera
+│   │   ├── __init__.py
+│   │   └── capture.py
+│   └── ascii
+│       ├── __init__.py
+│       └── converter.py
+├── tests
+│   ├── __init__.py
+│   ├── test_capture.py
+│   └── test_converter.py
+├── requirements.txt
+└── README.md
